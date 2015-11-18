@@ -13,3 +13,4 @@ github_username:  gcporras
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
